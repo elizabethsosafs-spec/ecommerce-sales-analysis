@@ -1,5 +1,8 @@
 # E-commerce Sales & Customer Behavior Analysis
 
+Power BI Dashboard | Excel | Data Analytics
+
+![Power BI Dashboard](powerbi-dashboard.png)
 
 
 ## 📊 Project Overview
@@ -19,7 +22,7 @@ The analysis focuses on questions such as:
 * How do sales evolve over time?
 * Which product categories generate the most sales?
 * Which categories sell the most units?
-* Do returning customers generate more purchases than new customers?
+* How do new and returning customers compare in terms of sales?
 * Which cities generate the highest sales?
 * How do different discount ranges relate to sales?
 * Which payment methods are most frequently used?
