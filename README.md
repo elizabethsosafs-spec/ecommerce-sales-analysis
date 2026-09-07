@@ -8,7 +8,6 @@ Power BI Dashboard | Excel | Data Analytics
 
 ## 📊 Project Overview
 
-## 📊 Project Overview
 
 This project analyzes e-commerce sales and customer behavior data to identify sales trends, customer patterns, and factors that may influence purchasing activity.
 
