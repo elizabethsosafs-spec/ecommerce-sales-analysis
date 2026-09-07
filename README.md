@@ -2,7 +2,7 @@
 
 Power BI Dashboard | Excel | Data Analytics
 
-![Power BI Dashboard](powerbi-dashboard.png)
+![Power BI Dashboard](E-commerce dashboard.png)
 
 
 ## 📊 Project Overview
