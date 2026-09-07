@@ -34,7 +34,7 @@ The analysis focuses on questions such as:
 
 ## 📁 Dataset
 
-The dataset contains **5,000 e-commerce orders** and includes information about:
+The dataset contains **5,000 e-commerce transactions** and includes information about:
 
 * Order and customer information
 * Date
